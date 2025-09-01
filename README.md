@@ -1,6 +1,6 @@
 #This is a title
 
-this is a paragrach
+this is a paragraph
 
 ##this is a level 2 title
 

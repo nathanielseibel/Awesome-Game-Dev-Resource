@@ -1,7 +1,11 @@
-# This is a title
+# Nate's Game Development Resources
 
-this is a paragraph
+This repo will contain items for class that I can revisit later or provide links to my Professor
 
-## this is a level 2 title
+## Game Dev Interview
 
-### this is a level 3 title
+The first document added was my Interview with Matt Stumhoffer, founder of HOF Studios
+
+## Game Dev Tools
+
+This document will be a breif breakdown of 10 tools used in game development

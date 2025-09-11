@@ -1,10 +1,8 @@
-## Gameplay Programmer
+# Game Development Careers
 
-This type of programmer is focussed in on the gameplay mechanics. They take the direction from the lead designers, coupled with the ideas of the writers, to make mechanics that make sense in game. Their also focused on balancing and tuning gameplay. This means that they review bug reports throughout development and post launch to help optimize the game. A gamplay programmer, not only has the job of helping the game work, but also the job of keeping the game working for as long as it is supported.
+## Games Programmer
 
-## Game Engine Programmer
-
-More common as a standalone group of programmers in years past, the Game Engine programmer develops the engine in which the game runs. More modernly, this position is one for specific engine familiarity. In the case of the former, these programmers will lay the groundwork which runs the game as it is developed. With the latter, these programmers will have a high level of knowledge on the specific uses and ways to work within specific engines. Depending on the engine, this could mean a high level of coding experience, or the capacity to understand the interactions of simplified programming forms (i.e. Blueprint).
+These individuals on the team or the ones who make the game work generally. While this can be further broken down into sub-disciplines, the general rule is the programmers make the game work. This doesn't necessarily require familiarity with any coding language, as they can use in built tools like BluePrints. They take the ideas from the creative directors and translate them into a playable game. They also can provide post-release support to patch issues and improve overall gameplay experiences.
 
 ## Environmental Artist
 
@@ -37,3 +35,38 @@ The brains of the game sits with the AI Programmer. They help to build out non-p
 ## Marketing Manager
 
 There are plenty of methods to marketing a game. These can range from a less is more approach, like Team Cherry regarding SilkSong, to a non-stop barrage of advertising, like every iteration of an EA Sports game. How these methods are employed is the job of a marketing manager. It is up to them to determine the target audience of the game and how best to get them excited for it, or generate hype. They coordinate the release of information via whatever means available, from social media posts up to paid adverts. In larger companies, this can be a team dedicated to ensure the highest potential profit upon release. For smaller teams, this may be figuring out how to stand out among the sea of other games releasing.
+
+
+# Game Programing Disciplines
+
+## Game Engine Programmer
+
+More common as a standalone group of programmers in years past, the Game Engine programmer develops the engine in which the game runs. More modernly, this position is one for specific engine familiarity. In the case of the former, these programmers will lay the groundwork which runs the game as it is developed. With the latter, these programmers will have a high level of knowledge on the specific uses and ways to work within specific engines. Depending on the engine, this could mean a high level of coding experience, or the capacity to understand the interactions of simplified programming forms (i.e. Blueprint).
+
+## Gameplay Programmer
+
+This type of programmer is focussed in on the gameplay mechanics. They take the direction from the lead designers, coupled with the ideas of the writers, to make mechanics that make sense in game. Their also focused on balancing and tuning gameplay. This means that they review bug reports throughout development and post launch to help optimize the game. A gamplay programmer, not only has the job of helping the game work, but also the job of keeping the game working for as long as it is supported.
+
+## Network Programming
+
+Works with multiplayer programmer for multiplayer games, but also still necessary for single player experiences. These programmers will ensure that data flows from the servers or other repositories to the players. This would include any patches, DLCs, as well as always online content, like in MMOs. They also work to hide latency between multple players. This can be in the form of pushed latency to players at an imperceptible rate.
+
+## Rendering Programming
+
+This field involves using algorithms to transform 3D models and assets into 2D representations on a screen. This can also be called graphics programming. One of the focus areas is balancing visual style with proformance on a variety of systems. 
+
+## Tools Programming
+
+## Physics Programming
+
+## UI Programming
+
+## Reliability Engineer
+
+Ensure's a game's backend services, cloud infrastructure, and overall player experience remains stable and enjoyable. They will monitor the game after release to help influence the design of new features, as well as ensuring it continues to function on whatever platforms it has been released on.
+
+## Animation Programmer
+
+Takes the animations created by the artists and design team and connects them to the player characters, NPCs, and locations. Prior to their input, many placeholders will be used to box out rough ideas. When the art needs to be added, they will map that artwork onto the placeholders and adjust any interactivity points, such as hit boxes and hurt boxes, to appropriatly interact with the player. Location animations would be more specific to this position if they are using all unique art that is animated for landscapes, etc.
+
+

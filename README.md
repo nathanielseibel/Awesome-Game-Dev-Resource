@@ -9,3 +9,7 @@ The first document added was my Interview with Matt Stumhoffer, founder of HOF S
 ## Game Dev Tools
 
 This document will be a breif breakdown of 10 tools used in game development
+
+## Game Dev Careers
+
+This document goes over multiple different careers within the large umbrella that is Game Development

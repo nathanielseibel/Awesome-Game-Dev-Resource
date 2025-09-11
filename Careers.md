@@ -32,6 +32,10 @@ If the creative director ensures that a game's vision is unified and achieved, t
 
 There are plenty of methods to marketing a game. These can range from a less is more approach, like Team Cherry regarding SilkSong, to a non-stop barrage of advertising, like every iteration of an EA Sports game. How these methods are employed is the job of a marketing manager. It is up to them to determine the target audience of the game and how best to get them excited for it, or generate hype. They coordinate the release of information via whatever means available, from social media posts up to paid adverts. In larger companies, this can be a team dedicated to ensure the highest potential profit upon release. For smaller teams, this may be figuring out how to stand out among the sea of other games releasing.
 
+## Voice Actors
+
+## Publishing
+
 
 # Game Programing Disciplines
 
@@ -59,4 +63,10 @@ Ensure's a game's backend services, cloud infrastructure, and overall player exp
 
 Takes the animations created by the artists and design team and connects them to the player characters, NPCs, and locations. Prior to their input, many placeholders will be used to box out rough ideas. When the art needs to be added, they will map that artwork onto the placeholders and adjust any interactivity points, such as hit boxes and hurt boxes, to appropriatly interact with the player. Location animations would be more specific to this position if they are using all unique art that is animated for landscapes, etc.
 
+##
 
+##
+
+##
+
+##

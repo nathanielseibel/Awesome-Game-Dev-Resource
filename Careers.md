@@ -8,9 +8,15 @@ More common as a standalone group of programmers in years past, the Game Engine 
 
 ## Environmental Artist
 
+These individuals help to create the worlds in which a game takes place. They work closely with creative directors and level designers to map out landscapes, either 2D or 3D, that suit the game. They can work with various photo editing softwares, 3D modelling softwares, as well as in engine tools. The key is to ensure the environment works with the story being told, sometimes even becoming its own character.
+
 ## Game Tester
 
+Game testers help to identify bugs and issues, as well as overall enjoyment, of a game. They are less likely to play a game in development start to finish, but rather focus in on a specific mechanic, level, area, or aspect of the game. They write detailed reports of what they find, good or bad, to inform the team on their findings. They push limits to try and break the game and, if they succeed, detail what they did, how the game broke, were they able to recreate the issue, and what they could see as a potential fix. The need to be thorough, but timely, as their part in the timeline can effect the rest of production and release.
+
 ## Level Designer
+
+Level designers create the blueprint which informs the environmental artists. The also work closely with the gameplay programmers and designers to build a cohessive world. This isn't just the backgrounds and artwork, but the enemy placement, environmental puzzles and challenges, secrets, and other things that transform each area from a place and into an interactive world. They help inform the flow of events and motivate player actions to move the game forward.
 
 ## Sound Designer
 

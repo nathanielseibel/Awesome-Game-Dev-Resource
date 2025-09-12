@@ -34,7 +34,11 @@ There are plenty of methods to marketing a game. These can range from a less is 
 
 ## Voice Actors
 
+Not all games include voices, but those that do require some level of voice acting talent. Even the simple grunts of an otherwise silent protagonist were recorded in a studio. Voice actors breathe life into the characters and narration of games by giving them a voice. They can add emotion and make an experience more immersive. Sometimes, on larger productions, they will also provide full-body performances with motion and facial capture. This makes the characters more believeable as the voice better fits the characters on screen.
+
 ## Publishing
+
+For a video game to be released, in any way, it has to be published. Larger publishing houses may provide financing for a games development, as well as provide access to additional tools or staff. The trade-off is that this may allow for the publishing house to inject their influence into a game. There are studios and individuals that self-publish, so the financing that would otherwise be provided needs to come from other means. This could mean a Kick-starter or similar crowd-funding. Regardless, when a self-published game is released on a platform, that platform will still take some cut of profits for the privlage of being hosted on their store.
 
 
 # Game Programing Disciplines

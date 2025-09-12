@@ -69,7 +69,7 @@ Takes the animations created by the artists and design team and connects them to
 
 ## UI Programmer
 
-This programmer creates and impliments how the user interfaces with the game. This can include the heads-up display many games use to inform players of health, ammo, abilities, etc. Additionally, this can include the various menus that players need to navigate for everything from powering up a character and changing armor to changing the settings for video and audio.
+This programmer creates and impliments how the user interfaces with the game. This can include the heads-up display many games use to inform players of health, ammo, abilities, etc. Additionally, this can include the various menus that players need to navigate for everything from powering up a character and changing armor to changing the settings for video and audio. Making these things visually pleasing will be on the design team, but making them functional appropriate to the game mechanics.
 
 ##
 

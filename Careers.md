@@ -71,8 +71,12 @@ Takes the animations created by the artists and design team and connects them to
 
 This programmer creates and impliments how the user interfaces with the game. This can include the heads-up display many games use to inform players of health, ammo, abilities, etc. Additionally, this can include the various menus that players need to navigate for everything from powering up a character and changing armor to changing the settings for video and audio. Making these things visually pleasing will be on the design team, but making them functional appropriate to the game mechanics.
 
-##
+## Game Porting Programmer
 
-##
+This particular programmer or group specializes in taking a game from one platform and making it function on another. This can involve converting code from one operating system or language to another, based on the end state goals. This can sometimes involve rewriting an entire game if the target system does not recognize the original released code. This can occur for a variety of reasons, not the least of which may be aged out codes or engines.
+
+## Input Programmer
+
+Many games have a similar set of input options, such as controller or mouse and keyboard. This programmers task is to ensure that inputs are correctly mapped for the devices expected to be used. This role may not require a dedcated programmer except in some cases. Occasionally, a game will require specialized inputs that are outside the norm. Working with an engineer or group of engineers who design such devices and ensuring that the devices communicate the correct inputs would be key to a successful game.
 
 ##

@@ -67,7 +67,9 @@ Ensure's a game's backend services, cloud infrastructure, and overall player exp
 
 Takes the animations created by the artists and design team and connects them to the player characters, NPCs, and locations. Prior to their input, many placeholders will be used to box out rough ideas. When the art needs to be added, they will map that artwork onto the placeholders and adjust any interactivity points, such as hit boxes and hurt boxes, to appropriatly interact with the player. Location animations would be more specific to this position if they are using all unique art that is animated for landscapes, etc.
 
-##
+## UI Programmer
+
+This programmer creates and impliments how the user interfaces with the game. This can include the heads-up display many games use to inform players of health, ammo, abilities, etc. Additionally, this can include the various menus that players need to navigate for everything from powering up a character and changing armor to changing the settings for video and audio.
 
 ##
 
